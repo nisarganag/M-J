@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+.superpowers/
+.DS_Store
+*.local
+.playwright-mcp/
+*.tsbuildinfo

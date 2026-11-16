@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "couple": {
+    "firstName": "Mohini",
+    "secondName": "Jewel"
+  },
+  "intro": {
+    "eyebrow": "THE WEDDING CELEBRATION OF",
+    "title": "Blessed is His love.",
+    "message": "Together with our families, we invite you to join us in prayer, song, and the celebration of our love."
+  },
+  "closing": {
+    "title": "With Love And Gratitude",
+    "message": "As we begin this beautiful journey together, we humbly seek your love, prayers and blessings.\n\nThank you for being a part of our special day and for sharing this precious moment with us.\n\nMay Christ's love guide our journey, strengthen our bond and bless our life together.\n\nWith love, gratitude and prayers,\n\nMohini & Jewel\n\nMay God bless us all."
+  },
+  "sections": [
+    {
+      "id": "section-01",
+      "number": 1,
+      "title": "Entrance Procession",
+      "chapter": "opening",
+      "category": "hymn",
+      "posture": "STAND",
+      "content": "(Altar servers enter with the cross and candles -The priest and groom enter -Bridesmaids and groomsmen follow-Flower girls and ring bearer enter - The bride enters)\n\nSong: Canon in D – Instrumental"
+    },
+    {
+      "id": "section-02",
+      "number": 2,
+      "title": "Sign of the Cross",
+      "chapter": "opening",
+      "category": "prayer",
+      "posture": "STAND",
+      "content": "Priest: In the name of the Father, and of the Son, and of the Holy Spirit.\n\nEveryone: Amen."
+    },
+    {
+      "id": "section-03",
+      "number": 3,
+      "title": "Greeting and Opening Prayer",
+      "chapter": "opening",
+      "category": "prayer",
+      "posture": "",
+      "content": "Priest: The Lord be with you.\n\nEveryone: And with your spirit.\n\nThe priest welcomes the congregation and explains the sacredness of Christian marriage.\n\nThe priest then says the opening prayer.\n\nEveryone: Amen."
+    },
+    {
+      "id": "section-04",
+      "number": 4,
+      "title": "Gloria – Hymn of Praise",
+      "chapter": "opening",
+      "category": "hymn",
+      "posture": "STAND",
+      "content": "When prescribed by the liturgical calendar, the congregation sings the Gloria.\n\nGLORIA – GLORY TO GOD IN THE HIGHEST\n\n[ALL – Congregation and Choir]\n\nGlory to God in the highest,\nAnd on earth peace to people of good will.\n\n[CHOIR]\n\nWe praise you,\nWe bless you,\nWe adore you,\nWe glorify you,\nWe give you thanks for your great glory,\n\nLord God, heavenly King,\nO God, almighty Father.\n\n[ALL]\n\nGlory to God in the highest!"
+    },
+    {
+      "id": "section-05",
+      "number": 5,
+      "title": "First Reading",
+      "chapter": "word",
+      "category": "reading",
+      "posture": "SIT",
+      "content": "Reading: Genesis 2:18–24 – The two shall become one.\n\nA reading from the Book of Genesis The Lord God said: “It is not good for the man to be alone. I will make a suitable partner for him.” So the Lord God formed out of the ground various wild animals and various birds of the air, and he brought them to the man to see what he would call them; whatever the man called each of them would be its name. The man gave names to all the cattle, all the birds of the air, and all wild animals; but none proved to be the suitable partner for the man. So the Lord God cast a deep sleep on the man, and while he was asleep, he took out one of his ribs and closed up its place with flesh. The Lord God then built up into a woman the rib that he had taken from the man. When he brought her to the man, the man said: “This one, at last, is bone of my bones and flesh of my flesh; This one shall be called ‘woman’ for out of ‘her man’ this one has been taken.” That is why a man leaves his father and mother and clings to his wife, and the two of them become one body.\n\nReader: The Word of the Lord.\n\nEveryone: Thanks be to God."
+    },
+    {
+      "id": "section-06",
+      "number": 6,
+      "title": "Responsorial Psalm",
+      "chapter": "word",
+      "category": "hymn",
+      "posture": "SIT",
+      "content": "Psalm 128 – Blessed are those who fear the Lord.\n\n[CHOIR] Blessed are all who fear the Lord,\nand walk in his ways!\nBy the labor of your hands you shall eat.\nYou will be blessed and prosper.\n\n[ALL] See how the Lord blesses those who fear him.\n\n[CHOIR] Your wife like a fruitful vine\nin the heart of your house;\nYour children like shoots of the olive.\naround your table.\n\n[ALL] See how the Lord blesses those who fear him."
+    },
+    {
+      "id": "section-07",
+      "number": 7,
+      "title": "Second Reading",
+      "chapter": "word",
+      "category": "reading",
+      "posture": "SIT",
+      "content": "Reading: 1 Corinthians 13:1-8 – Love never fails\n\nIf I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing.\n\nLove is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails.\n\nReader: The Word of the Lord.\n\nEveryone: Thanks be to God."
+    },
+    {
+      "id": "section-08",
+      "number": 8,
+      "title": "Gospel Acclamation – Alleluia",
+      "chapter": "word",
+      "category": "hymn",
+      "posture": "STAND",
+      "content": "Alleluia! Alleluia!\nGlory be to God on high;\nAlleluia to the Saviour\nWho has won the victory;\nAlleluia to the Spirit,\nFount of love and sanctity;\nAlleluia! Alleluia!\nTo the Triune Majesty.\n\nAlleluia! Alleluia!\nHearts and voices heavenward raise:\nSing to God a hymn of gladness,\nSing to God a hymn of praise:\nChrist, who on the cross a victim,\nFor the world's salvation bled,\nJesus Christ, the King of glory,\nNow is risen from the dead."
+    },
+    {
+      "id": "section-09",
+      "number": 9,
+      "title": "Gospel Reading",
+      "chapter": "word",
+      "category": "reading",
+      "posture": "STAND",
+      "content": "The priest announces the Gospel.\n\nPriest: The Lord be with you.\n\nEveryone: And with your spirit.\n\nPriest: A reading from the Holy Gospel according to John.\n\nEveryone: Glory to you, O Lord.\n\nEveryone makes a small cross on the forehead, lips and chest.\n\nThe priest reads: Gospel ~ John 2:1–11 – The Wedding at Cana.\n\n2 On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. 2 Jesus also was invited to the wedding with his disciples. 3 When the wine ran out, the mother of Jesus said to him, “They have no wine.” 4 And Jesus said to her, “Woman, what does this have to do with me? My hour has not yet come.” 5 His mother said to the servants, “Do whatever he tells you.”\n\n6 Now there were six stone water jars there for the Jewish rites of purification, each holding twenty or thirty gallons.[a] 7 Jesus said to the servants, “Fill the jars with water.” And they filled them up to the brim. 8 And he said to them, “Now draw some out and take it to the master of the feast.” So they took it. 9 When the master of the feast tasted the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the master of the feast called the bridegroom 10 and said to him, “Everyone serves the good wine first, and when people have drunk freely, then the poor wine. But you have kept the good wine until now.” 11 This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him.\n\nPriest: The Gospel of the Lord.\n\nEveryone: Praise to you, Lord Jesus Christ."
+    },
+    {
+      "id": "section-10",
+      "number": 10,
+      "title": "Homily",
+      "chapter": "word",
+      "category": "ceremony",
+      "posture": "SIT",
+      "content": "The priest explains the meaning of marriage, love, sacrifice, forgiveness, faithfulness and the importance of keeping God at the centre of married life.\n\nThe congregation listens quietly."
+    },
+    {
+      "id": "section-11",
+      "number": 11,
+      "title": "Questions before Consent",
+      "chapter": "marriage",
+      "category": "ceremony",
+      "posture": "STAND",
+      "content": "The bride and groom stand before the priest.\n\nThe priest asks them questions about their freedom to marry, lifelong commitment and openness to family life.\n\nThe bride and groom respond individually:\n\nBride/Groom: I do.\n\nThe congregation listens respectfully."
+    },
+    {
+      "id": "section-12",
+      "number": 12,
+      "title": "Exchange of Marriage Vows",
+      "chapter": "marriage",
+      "category": "ceremony",
+      "posture": "STAND",
+      "content": "The bride and groom face each other and hold hands.\n\nGroom: \"I, Jewel, take you, Mohini, to be my wife. I promise to be faithful to you, in good times and in bad, in sickness and in health, to love you and to honour you all the days of my life.\"\n\nBride: \"I, Mohini, take you, Jewel, to be my husband. I promise to be faithful to you, in good times and in bad, in sickness and in health, to love you and to honour you all the days of my life.\"\n\nThe couple exchanges consent according to the approved marriage rite."
+    },
+    {
+      "id": "section-13",
+      "number": 13,
+      "title": "Reception of Consent and Declaration of Marriage",
+      "chapter": "marriage",
+      "category": "ceremony",
+      "posture": "STAND",
+      "content": "The priest receives their vows and confirms their marriage.\n\nPriest: What God has joined together, let no one separate.\n\nEveryone: Amen.\n\nThe congregation may applaud if the priest invites them to do so."
+    },
+    {
+      "id": "section-14",
+      "number": 14,
+      "title": "Blessing and Exchange of Rings",
+      "chapter": "marriage",
+      "category": "ceremony",
+      "posture": "",
+      "content": "The priest blesses the wedding rings.\n\nThe groom places the ring on the bride's finger, followed by the bride placing the ring on the groom's finger.\n\nGroom: \"Mohini, receive this ring as a sign of my love and fidelity. In the name of the Father, and of the Son, and of the Holy Spirit.\"\n\nBride: “Jewel, receive this ring as a sign of my love and fidelity. In the name of the Father, and of the Son, and of the Holy Spirit.\"\n\nThe congregation witnesses this exchange."
+    },
+    {
+      "id": "section-15",
+      "number": 15,
+      "title": "Prayers of the Faithful",
+      "chapter": "marriage",
+      "category": "prayer",
+      "posture": "STAND",
+      "content": "Suggested intentions:\n\nFor the newly married couple, that God may bless their marriage with everlasting love and faithfulness.\n\nFor their parents and families, that God may reward them for their love and sacrifices.\n\nFor the Church and all married couples, that they may remain strong in faith and commitment.\n\nFor those who are sick, lonely and suffering, that God may give them comfort and hope.\n\nFor our departed family members, that they may rest in eternal peace.\n\nAfter every intention:\n\nReader: Lord, hear our prayer.\n\nEveryone: Lord, hear our prayer."
+    },
+    {
+      "id": "section-16",
+      "number": 16,
+      "title": "Offertory – Presentation of Gifts",
+      "chapter": "eucharist",
+      "category": "hymn",
+      "posture": "SIT",
+      "content": "Selected family members bring bread and wine to the altar.\n\nThe priest receives the gifts and prepares the altar.\n\nHymn: Here I Am, Lord.\n\n[CHOIR]\n\nI, the Lord of sea and sky,\n\nI have heard my people cry.\n\nAll who dwell in dark and sin,\n\nMy hand will save.\n\nI, who made the stars of night,\n\nI will make their darkness bright.\n\nWho will bear my light to them?\n\nWhom shall I send?\n\n[ALL]\n\nHere I am, Lord. Is it I, Lord?\n\nI have heard you calling in the night.\n\nI will go, Lord, if you lead me.\n\nI will hold your people in my heart.\n\n[CHOIR]\n\nI, the Lord of snow and rain,\n\nI have borne my people’s pain.\n\nI have wept for love of them.\n\nThey turn away.\n\nI will break their hearts of stone,\n\nGive them hearts for love alone.\n\nI will speak my words to them.\n\nWhom shall I send?\n\n[ALL]\n\nHere I am, Lord. Is it I, Lord?\n\nI have heard you calling in the night.\n\nI will go, Lord, if you lead me.\n\nI will hold your people in my heart.\n\n[CHOIR]\n\nI, the Lord of wind and flame, I will send the poor and lame.\n\nI will set a feast for them.\n\nMy hand will save.\n\nFinest bread I will provide, 'Til their hearts be satisfied.\n\nI will give my life to them. Whom shall I send?\n\n[ALL] x2\n\nHere I am, Lord. Is it I, Lord?\n\nI have heard you calling in the night.\n\nI will go, Lord, if you lead me.\n\nI will hold your people in my heart"
+    },
+    {
+      "id": "section-17",
+      "number": 17,
+      "title": "Prayer over the Offerings",
+      "chapter": "eucharist",
+      "category": "prayer",
+      "posture": "",
+      "content": "The priest prays over the bread and wine.\n\nPriest: Pray, brothers and sisters, that my sacrifice and yours may be acceptable to God, the almighty Father.\n\nEveryone: May the Lord accept the sacrifice at your hands for the praise and glory of His name, for our good and the good of all His holy Church.\n\nPriest: Offers the Prayer over the Offerings.\n\nEveryone: Amen."
+    },
+    {
+      "id": "section-18",
+      "number": 18,
+      "title": "Preface and Holy, Holy, Holy",
+      "chapter": "eucharist",
+      "category": "hymn",
+      "posture": "STAND",
+      "content": "Priest: The Lord be with you.\n\nEveryone: And with your spirit.\n\nPriest: Lift up your hearts.\n\nEveryone: We lift them up to the Lord.\n\nPriest: Let us give thanks to the Lord our God.\n\nEveryone: It is right and just.\n\nThe priest continues the Preface.\n\nThen everyone sings: Holy, Holy, Holy Lord, God of hosts. Heaven and earth are full of your glory. Hosanna in the highest. Blessed is he who comes in the name of the Lord. Hosanna in the highest."
+    },
+    {
+      "id": "section-19",
+      "number": 19,
+      "title": "Eucharistic Prayer and Consecration",
+      "chapter": "eucharist",
+      "category": "prayer",
+      "posture": "KNEEL",
+      "content": "This is one of the most sacred moments of the Holy Mass.\n\nThe priest prays over the bread and wine.\n\nThe congregation remains kneeling during the Eucharistic Prayer according to the parish's prescribed posture.\n\nThe priest raises the consecrated Host.\n\nThe priest raises the Chalice.\n\nAt each elevation, the congregation remains silent and prayerful.\n\nPriest: The mystery of faith.\n\nEveryone: We proclaim your Death, O Lord, and profess your Resurrection until you come again.\n\nThe priest continues the Eucharistic Prayer.\n\nAt the end:\n\nEveryone: Amen"
+    },
+    {
+      "id": "section-20",
+      "number": 20,
+      "title": "Our Father – The Lord's Prayer",
+      "chapter": "eucharist",
+      "category": "prayer",
+      "posture": "STAND",
+      "content": "Everyone stands and joins hands if this is the parish custom, or keeps their hands in a prayer position.\n\nEveryone prays together:\n\n\"Our Father, who art in heaven, hallowed be thy name; thy kingdom come; thy will be done on earth as it is in heaven.\n\nGive us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil.\"\n\nThe priest continues with the prayer of deliverance.\n\nEveryone: For the kingdom, the power and the glory are yours now and forever."
+    },
+    {
+      "id": "section-21",
+      "number": 21,
+      "title": "Nuptial Blessing",
+      "chapter": "eucharist",
+      "category": "prayer",
+      "posture": "STAND",
+      "content": "The priest extends his hands over the newly married couple and offers a special blessing.\n\nEveryone remains standing or follows the priest's instruction.\n\nEveryone: Amen."
+    },
+    {
+      "id": "section-22",
+      "number": 22,
+      "title": "Sign of Peace",
+      "chapter": "eucharist",
+      "category": "ceremony",
+      "posture": "",
+      "content": "Priest: The peace of the Lord be with you always.\n\nEveryone: And with your spirit.\n\nPriest: Let us offer each other the sign of peace.\n\nEveryone exchanges a handshake, a gentle greeting or another appropriate sign of peace."
+    },
+    {
+      "id": "section-23",
+      "number": 23,
+      "title": "Lamb of God – Agnus Dei",
+      "chapter": "eucharist",
+      "category": "hymn",
+      "posture": "STAND",
+      "content": "Everyone sings:\n\n\"Lamb of God, you take away the sins of the world, have mercy on us.\"\n\n\"Lamb of God, you take away the sins of the world, pray for us.\"\n\n\"Lamb of God, you take away the sins of the world, grant us peace.\""
+    },
+    {
+      "id": "section-24",
+      "number": 24,
+      "title": "Invitation to Holy Communion",
+      "chapter": "eucharist",
+      "category": "prayer",
+      "posture": "KNEEL",
+      "content": "The priest presents the consecrated Host.\n\nPriest: Behold the Lamb of God. Behold him who takes away the sins of the world. Blessed are those called to the supper of the Lamb.\n\nEveryone:\n\n\"Lord, I am not worthy that you should enter under my roof, but only say the word and my soul shall be healed.\""
+    },
+    {
+      "id": "section-25",
+      "number": 25,
+      "title": "Holy Communion",
+      "chapter": "eucharist",
+      "category": "hymn",
+      "posture": "",
+      "content": "The priest receives Holy Communion.\n\nThe bride and groom receive Communion.\n\nEligible Catholic members of the congregation come forward.\n\nThose not receiving Communion may remain in their seats and pray.\n\nCommunion hymns: I Am the Bread of Life.\n\n[CHOIR]\n\nI am the bread of life,\nHe who comes to me shall not hunger,\nHe who believes in me shall not thirst,\nNo one comes to me unless the Father draw him.\n\n[ALL]\n\nAnd I will raise him up,\nAnd I will raise him up,\nAnd I will raise him up\nOn the last day.\n\n[CHOIR]\n\nThe bread that I will give\nIs my flesh for the life of the world,\nAnd he who eats of this bread\nShall live forever,\nShall live forever.\n\n[ALL]\n\nAnd I will raise him up,\nAnd I will raise him up,\nAnd I will raise him up\nOn the last day.\n\n[CHOIR]\n\nUnless you eat of the flesh\nOf the Son of Man,\nAnd drink of His blood,\nAnd drink of His blood,\nYou shall not have life within you.\n\n[ALL]\n\nAnd I will raise him up,\nAnd I will raise him up,\nAnd I will raise him up\nOn the last day.\n\n[CHOIR]\n\nI am the resurrection, I am the life,\nHe who believes in me, even if he die,\nHe shall live forever.\n\n[ALL]\n\nAnd I will raise him up,\nAnd I will raise him up,\nAnd I will raise him up\nOn the last day.\n\n[CHOIR]\n\nYes, Lord, I believe\nThat you are the Christ,\nThe Son of God, who has come\nInto the world.\n\n[ALL]\n\nAnd I will raise him up,\nAnd I will raise him up,\nAnd I will raise him up\nOn the last day."
+    },
+    {
+      "id": "section-27",
+      "number": 27,
+      "title": "Offering of Flowers to Mother Mary",
+      "chapter": "closing",
+      "category": "hymn",
+      "posture": "REMAIN SEATED",
+      "content": "If this tradition is included:\n\nThe bride and groom approach the statue of Mother Mary.\n\nThe bride offers flowers.\n\nThe couple spends a moment in prayer.\n\nHymn: Ave Maria\n\n[CHOIR]\n\nAs I kneel before you,\nAs I bow my head in prayer,\nTake this day, make it yours\nAnd fill me with your love.\n\n[ALL]\n\nAve Maria, Gratia plena,\nDominus tecum, Benedicta tu.\n\n[CHOIR]\n\nAll I have I give you,\nEvery dream and wish are yours,\nMother of Christ, Mother of mine,\nPresent them to my Lord.\n\n[ALL]\n\nAve Maria, Gratia plena,\nDominus tecum, Benedicta tu.\n\n[CHOIR]\n\nAs I kneel before you,\nAnd I see your smiling face,\nEv’ry thought, ev’ry word\nIs lost in your embrace.\n\n[ALL]\n\nAve Maria, Gratia plena,\nDominus tecum, Benedicta tu."
+    },
+    {
+      "id": "section-28",
+      "number": 28,
+      "title": "Final Blessing",
+      "chapter": "closing",
+      "category": "prayer",
+      "posture": "STAND",
+      "content": "The priest gives the final blessing.\n\nPriest: The Lord be with you.\n\nEveryone: And with your spirit.\n\nThe priest blesses the newly married couple and the congregation.\n\nPriest: May almighty God bless you, the Father, and the Son, and the Holy Spirit.\n\nEveryone: Amen."
+    },
+    {
+      "id": "section-29",
+      "number": 29,
+      "title": "Dismissal",
+      "chapter": "closing",
+      "category": "ceremony",
+      "posture": "",
+      "content": "Priest: Go forth, the Mass is ended.\n\nEveryone: Thanks be to God."
+    },
+    {
+      "id": "section-30",
+      "number": 30,
+      "title": "Recessional – Newlyweds Exit",
+      "chapter": "closing",
+      "category": "hymn",
+      "posture": "STAND",
+      "content": "The newly married couple walks down the aisle together.\n\nHymns: Wedding March – Mendelssohn.\n\nThe wedding party follows the couple."
+    },
+    {
+      "id": "section-31",
+      "number": 31,
+      "title": "Signing of Marriage Register",
+      "chapter": "closing",
+      "category": "ceremony",
+      "posture": "",
+      "content": "The bride, groom, priest and designated witnesses sign the necessary church documents, according to parish arrangements.\n\nGuests may remain seated or proceed outside as directed."
+    }
+  ]
+}
