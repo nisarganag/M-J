@@ -247,6 +247,47 @@ form input, .edit-form input, .edit-form select, .edit-form textarea, .share-dia
 .share-dialog h2 { font-family: var(--serif); font-size: 36px; color: var(--plum); }
 .share-dialog > p { font-size: 12px; color: var(--muted); line-height: 1.8; margin-top: 14px; }
 .share-dialog .button { margin-top: 20px; }
+/* Editable copy can be longer than the original invitation wording. */
+.site-shell, dialog { overflow-wrap: anywhere; }
+.share-dialog .button, .empty-state .button, .results-row > button { white-space: normal; min-width: 0; }
+.hero-copy, .hero h1, .hero-description, .hero-blessing, .chapter-heading > div,
+.section-intro, .site-footer, .editor-heading, .copy-group, .chapter-editor-card { min-width: 0; overflow-wrap: anywhere; }
+.hero-description, .section-intro p, .participation-note p, .scripture-strip p { white-space: pre-line; }
+.header-nav { flex-wrap: wrap; }
+.brand { min-width: 0; }
+.brand-caption { white-space: normal; max-width: 180px; overflow-wrap: anywhere; }
+.hero-actions > a, .filter, .chapter-link { white-space: normal; overflow-wrap: anywhere; }
+.hero-footnote, .guest-toolbar, .results-row { overflow-wrap: anywhere; }
+.guest-toolbar > div { flex-wrap: wrap; }
+.guest-toolbar button { text-align: left; }
+.hero-art .keepsake-inner { max-width: 76%; left: 12%; right: 12%; overflow-wrap: anywhere; }
+.keepsake-note { max-width: 80%; overflow-wrap: anywhere; }
+.scripture-strip > div { min-width: 0; overflow-wrap: anywhere; }
+.scripture-strip > svg, .guest-toolbar svg, .chapter-link > svg { flex-shrink: 0; }
+.chapter-number { height: auto; min-height: 43px; max-width: 65px; overflow-wrap: anywhere; }
+.chapter-roman { max-width: 50px; overflow-wrap: anywhere; }
+.moment-number { width: auto; min-width: 24px; max-width: 90px; overflow-wrap: anywhere; }
+.editor-heading > div { min-width: 0; }
+.editor-emblem { flex-shrink: 0; }
+.editor-settings + .editor-settings { margin-top: 7px; }
+.editor-settings > svg { flex-shrink: 0; }
+.editor-nav-chapter h3 { font-size: 9px; color: #76626a; text-transform: uppercase; letter-spacing: .06em; margin: 18px 13px 7px; line-height: 1.7; overflow-wrap: anywhere; }
+.editor-commandbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 24px; padding-bottom: 18px; border-bottom: 1px solid var(--line); }
+.editor-commandbar > span { color: var(--muted); font-size: 10px; line-height: 1.6; }
+.structure-actions { display: flex; gap: 6px; flex-wrap: wrap; }
+.moment-structure { display: flex; justify-content: space-between; gap: 12px; margin: -4px 0 20px; flex-wrap: wrap; }
+.danger-action { color: #963c42; }
+.danger-action:hover:not(:disabled) { background: #f5e6e2; }
+.inline-action { text-decoration: underline; text-underline-offset: 3px; color: var(--plum); }
+.copy-search label { display: flex; align-items: center; gap: 7px; }
+.copy-group { margin-top: 28px; padding-top: 22px; border-top: 1px solid var(--line); }
+.copy-group h4 { font-family: var(--serif); color: var(--plum); font-size: 24px; font-weight: 500; }
+.chapter-editor-card { background: #f5f0e9; border: 1px solid var(--line); border-radius: 6px; padding: 18px 22px 22px; margin-top: 22px; }
+.chapter-editor-top { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.chapter-editor-top > .eyebrow { font-size: 8px; }
+.chapter-editor-top .structure-actions { flex-shrink: 0; gap: 0; }
+.chapter-editor-card label { margin-top: 12px; }
+.add-chapter { margin-top: 22px; }
 .boot-screen { min-height: 100dvh; padding: 40px; display: flex; gap: 24px; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
 .boot-monogram { font-family: var(--serif); font-size: 60px; color: var(--plum); }
 .boot-screen h1 { font-family: var(--serif); font-size: 48px; }
@@ -362,6 +403,7 @@ form input, .edit-form input, .edit-form select, .edit-form textarea, .share-dia
   .section-branch { width: 60px; margin-top: 16px; }
   .ceremony-layout { gap: 23px; }
   .chapter-link { font-size: 9px; padding: 8px 10px; min-height: 40px; }
+  .chapter-link { max-width: 260px; }
   .filter-row { gap: 2px; padding-bottom: 15px; }
   .filter { font-size: 9px; padding: 8px 13px; min-height: 35px; }
   .search-row { gap: 10px; margin-top: 15px; }
@@ -436,6 +478,17 @@ form input, .edit-form input, .edit-form select, .edit-form textarea, .share-dia
   .editor-actions .button { flex: 1; padding: 12px 17px; font-size: 11px; min-height: 43px; }
   .editor-preview { padding: 20px; }
   .editor-preview h3 { font-size: 30px; }
+  .editor-commandbar { margin-bottom: 20px; padding-bottom: 16px; }
+  .editor-commandbar > span { font-size: 9px; }
+  .editor-commandbar .button, .moment-structure .button { font-size: 10px; padding: 9px 11px; gap: 6px; }
+  .moment-structure { gap: 8px; }
+  .moment-structure .structure-actions { gap: 5px; }
+  .chapter-editor-card { padding: 12px 13px 16px; }
+  .chapter-editor-top { align-items: flex-start; }
+  .chapter-editor-top > .eyebrow { font-size: 7px; margin-top: 11px; }
+  .chapter-editor-top .icon-button { width: 32px; height: 36px; }
+  .site-header { height: auto; min-height: 80px; padding-top: 15px; padding-bottom: 15px; }
+  .brand-caption { max-width: 140px; }
   .success-message { font-size: 10px; }
   .share-dialog { padding: 36px 26px; }
   .share-dialog h2 { font-size: 31px; }

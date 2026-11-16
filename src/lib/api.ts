@@ -30,7 +30,7 @@ export class CeremonyApi {
       const message = typeof result === 'object' && result && 'message' in result ? String(result.message) : ''
       if (message.includes('CONTENT_CONFLICT')) throw new ApiError('A newer version was published. Your draft is safe; load the latest version before editing again.', 'conflict')
       if (message.includes('INVALID_CREDENTIALS')) throw new ApiError('The username or password is incorrect.', 'credentials')
-      if (message.includes('INVALID_DOCUMENT')) throw new ApiError('The ceremony could not be saved. Check that every section has a title and content.', 'validation')
+      if (message.includes('INVALID_DOCUMENT')) throw new ApiError('The ceremony could not be saved. Check the chapter and moment fields and ensure the editor database upgrade has been applied. Your draft is unchanged.', 'validation')
       if (response.status === 429) throw new ApiError('Too many requests. Wait a moment, then try again.', 'rate-limit')
       throw new ApiError('Shared storage is unavailable. Check the project setup and connection, then try again. Your draft is unchanged.')
     }
